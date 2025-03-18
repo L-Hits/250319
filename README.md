@@ -121,6 +121,7 @@ print("Hello, Markdown!")
 ```
 #### 예시 출력:
 [Google](https://www.google.com)
+
 ---
 
 ### 2.6. 이미지
@@ -130,6 +131,7 @@ print("Hello, Markdown!")
 ```
 #### 예시 출력:
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100">
+
 ---
 
 ### 2.7. 인용문
